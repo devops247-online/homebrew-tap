@@ -3,8 +3,8 @@
 class Shellclear < Formula
   desc "Find secrets in shell history and remove them without breaking the file"
   homepage "https://github.com/devops247-online/shellclear"
-  url "https://github.com/devops247-online/shellclear/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "b97880aa5175a471001c8ddc1525124ce95a57d9343560ee517ba05a3bdf6250"
+  url "https://github.com/devops247-online/shellclear/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "57d114e3a4cf945498a344e0937eab77b92ec176872ade4925a2048d516a1708"
   license "Apache-2.0"
   head "https://github.com/devops247-online/shellclear.git", branch: "main"
 
